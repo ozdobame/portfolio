@@ -8,3 +8,6 @@ I'm still learning
 Chocolate 
 Git and github
 SSH
+HTML
+Font Awesome
+Google Fonts
